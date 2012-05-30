@@ -1,0 +1,9 @@
+node_modules
+env
+.git
+.idea
+gallio
+public\\js\\libs
+public/js/libs
+views
+wercker.esproj
