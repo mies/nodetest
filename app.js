@@ -9,7 +9,7 @@ app.configure(function() {
 
 app.get('/', function(req, res) {
   'use strict';
-  res.send("<h1 style='font-size: 500%;'>Hello Demo Day! Ready to invest?</h1>")
+  res.send("<h1 style='font-size: 500%;'>Hello Demo Day! Ready to invest?</h1>");
 });
 
 app.get('/json', function(req, res) {

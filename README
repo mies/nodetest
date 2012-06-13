@@ -1,2 +1,2 @@
 node test app
-<img alt="Build Status" src="http://app.wercker.com/status/">
+![Build Status](http://app.wercker.com/status/)
