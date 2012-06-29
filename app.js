@@ -14,7 +14,7 @@ app.get('/', function(req, res) {
 
 app.get('/json', function(req, res) {
   'use strict';
-  res.send({'hello' : 'world'});
+  res.send({'hello' : 'world'})
 });
 
 var port = process.env.PORT || 3000 ;
