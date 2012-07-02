@@ -1,5 +1,5 @@
 { "name" : "nodepoject"
-, "description" : "Node test in bitbucket"
+, "description" : "Node test project"
 , "version" : "0.0.1"
 , "dependencies" : {
     "express" : "2.5.9",
